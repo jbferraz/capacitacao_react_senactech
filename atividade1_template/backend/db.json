@@ -41,6 +41,12 @@
             "nome": "Produto 7",
             "preco": 160,
             "imagem": "curso1.jpeg"
+        },
+        {
+            "id": 8,
+            "nome": "Produto 8",
+            "preco": 170,
+            "imagem": "curso1.jpeg"
         }
     ]
 }
