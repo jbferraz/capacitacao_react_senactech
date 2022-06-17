@@ -1,7 +1,7 @@
 import './App.css';
 import Menu
 
-from './components/Menu';
+  from './components/Menu';
 function App() {
   return (
     <>
@@ -11,9 +11,9 @@ function App() {
           <h1>e-Commerce!!!</h1>
         </section>
       </main>
-      //<Carroussel></Carroussel>
-      //<ListaProdutos></ListaProdutos>
-      //<Footer></Footer>
+      {/* <Carroussel></Carroussel> */}
+      {/* <ListaProdutos></ListaProdutos>
+      <Footer></Footer> */}
     </>
   );
 }
