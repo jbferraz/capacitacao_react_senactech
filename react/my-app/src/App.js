@@ -16,6 +16,8 @@ function App() {
         <h3>R$ 30,00</h3>
         <h5>R$ 20,00</h5>
       </MeuCard>
+
+      <ListaCards></ListaCards>
     </div >
   );
 }
