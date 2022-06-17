@@ -5,7 +5,7 @@ import Card from './MeuCard';
 
 function ListaCards(props) {
     return produtos.map (produto => 
-        <MeuCard titulo={produto.nome}>
+        <MeuCard key={produto.id} titulo={produto.nome}>
             <h3>{produto.preco}</h3>
         </MeuCard>    
     )
