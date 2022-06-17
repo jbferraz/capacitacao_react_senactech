@@ -1,9 +1,10 @@
 App.js
 import './App.css';
 
-import Hello from './components/Hello'
-import HiMessage from './components/HiMessage'
-import MeuCard from './components/MeuCard'
+import Hello from './components/Hello';
+import HiMessage from './components/HiMessage';
+import MeuCard from './components/MeuCard';
+import ListaCards from './components/ListaCards';
 
 function App() {
   return (
